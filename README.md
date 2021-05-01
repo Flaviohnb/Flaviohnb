@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="500" src="https://media.giphy.com/media/lJnAXeJO8tE7E37mxq/giphy.gif"/>
+    <img align="center" width="500" height="250" src="https://media.giphy.com/media/lJnAXeJO8tE7E37mxq/giphy.gif"/>
   </a>
 </p>
 
@@ -8,7 +8,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohnb&layout=compact"
+      height="250"
+      width="500"
+      src="https://github-readme-stats.vercel.app/api?username=flaviohnb&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
     />
   </a>
 </p>
@@ -17,8 +19,9 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
-      height="165"
-      src="https://github-readme-stats.vercel.app/api?username=flaviohnb&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
+      height="250"
+      width="500"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohnb&layout=compact"
     />
   </a>
 </p>
