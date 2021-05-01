@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="https://media.giphy.com/media/cFkiFMDg3iFoI/giphy.gif" />
+    <img align="center" width="500" src="https://media.giphy.com/media/lJnAXeJO8tE7E37mxq/giphy.gif"/>
   </a>
 </p>
 
@@ -11,6 +11,9 @@
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohnb&layout=compact"
     />
   </a>
+</p>
+
+<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img
       align="center"
