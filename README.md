@@ -4,28 +4,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="250"
-      width="500"
-      src="https://github-readme-stats.vercel.app/api?username=flaviohnb&count_private=true&theme=algolia&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="250"
-      width="500"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviohnb&layout=compact&theme=algolia"
-    />
-  </a>
-</p>
-
 ### Find me
 
   <a href="https://www.linkedin.com/in/flaviohnb/" target="_blank">
